@@ -1,1 +1,1 @@
-![Banner](https://user-images.githubusercontent.com/324683/88085480-e43abc00-cb53-11ea-8a84-afaccde62c04.png)
+![](https://rawcdn.githack.com/LuisAlejandro/luisalejandro.github.io/1e242f59e8e721e0069dad4b8f53ae0c8b9afee3/app/_assets/images/banner.svg)
