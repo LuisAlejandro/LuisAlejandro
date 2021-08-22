@@ -1,0 +1,9 @@
+version: "3"
+services:
+  luisalejandro:
+    image: luisalejandro/readme:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/home/luisalejandro/app

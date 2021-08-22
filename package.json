@@ -1,0 +1,11 @@
+{
+  "name": "luisalejandro",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/LuisAlejandro/LuisAlejandro",
+  "author": "Luis Alejandro Martínez Faneyth <luis@yluisalejandro.org>",
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
