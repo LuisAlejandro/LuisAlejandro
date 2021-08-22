@@ -12,13 +12,13 @@ I'm a Telecom Engineer, currentlty working as a Sr Full Stack Developer at [@Gua
 ### 🛠 &nbsp; On my toolbox
 
 ${config.SKILLS.map(({ logo, label, color, labelColor, logoColor }) => {
-  return `<img src="https://img.shields.io/badge/-${label}-FFFFFF?style=flat&logo=${logo}&color=${color}&labelColor=${labelColor}&logoColor=${logoColor}"/>`;
+  return `<img src="https://img.shields.io/badge/-${label}-FFFFFF?style=flat&logo=${logo}&color=${color}&labelColor=${labelColor}&logoColor=${logoColor}"/>&nbsp;`;
 }).join("")}
 
 ### 🤝🏻 &nbsp; Get in touch
 
 ${config.SOCIAL.map(({ link, logo, label, color, labelColor, logoColor }) => {
-  return `<a href="${link}"><img src="https://img.shields.io/badge/-${label}-FFFFFF?style=flat&logo=${logo}&color=${color}&labelColor=${labelColor}&logoColor=${logoColor}"/></a>`;
+  return `<a href="${link}"><img src="https://img.shields.io/badge/-${label}-FFFFFF?style=flat&logo=${logo}&color=${color}&labelColor=${labelColor}&logoColor=${logoColor}"/></a>&nbsp;`;
 }).join("")}
 `
 );
