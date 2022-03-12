@@ -1,6 +1,6 @@
 exports.SKILLS = [
   {
-    label: 'Languages',
+    label: 'Languages/Frameworks',
     items: [
       {
         logo: 'Typescript',
@@ -30,11 +30,6 @@ exports.SKILLS = [
         labelColor: 'f8f5f5',
         logoColor: '666666',
       },
-    ]
-  },
-  {
-    label: 'Javascript Frameworks',
-    items: [
       {
         logo: 'React',
         label: 'React',
@@ -63,11 +58,6 @@ exports.SKILLS = [
         labelColor: 'f8f5f5',
         logoColor: '666666',
       },
-    ]
-  },
-  {
-    label: 'Mobile/Desktop',
-    items: [
       {
         logo: 'Ionic',
         label: 'Ionic',
@@ -167,39 +157,6 @@ exports.SKILLS = [
       {
         logo: 'rollup.js',
         label: 'Rollup',
-        color: 'f8f5f5',
-        labelColor: 'f8f5f5',
-        logoColor: '666666',
-      },
-    ]
-  },
-  {
-    label: 'REST Apis & Data feeds',
-    items: [
-      {
-        logo: 'Django',
-        label: 'Django',
-        color: 'f8f5f5',
-        labelColor: 'f8f5f5',
-        logoColor: '666666',
-      },
-      {
-        logo: 'Flask',
-        label: 'Flask',
-        color: 'f8f5f5',
-        labelColor: 'f8f5f5',
-        logoColor: '666666',
-      },
-      {
-        logo: 'ExpressJS',
-        label: 'ExpressJS',
-        color: 'f8f5f5',
-        labelColor: 'f8f5f5',
-        logoColor: '666666',
-      },
-      {
-        logo: 'GraphQL',
-        label: 'GraphQL',
         color: 'f8f5f5',
         labelColor: 'f8f5f5',
         logoColor: '666666',
@@ -343,6 +300,34 @@ exports.SKILLS = [
       {
         logo: 'Github Actions',
         label: 'Github Actions',
+        color: 'f8f5f5',
+        labelColor: 'f8f5f5',
+        logoColor: '666666',
+      },
+      {
+        logo: 'Django',
+        label: 'Django',
+        color: 'f8f5f5',
+        labelColor: 'f8f5f5',
+        logoColor: '666666',
+      },
+      {
+        logo: 'Flask',
+        label: 'Flask',
+        color: 'f8f5f5',
+        labelColor: 'f8f5f5',
+        logoColor: '666666',
+      },
+      {
+        logo: 'ExpressJS',
+        label: 'ExpressJS',
+        color: 'f8f5f5',
+        labelColor: 'f8f5f5',
+        logoColor: '666666',
+      },
+      {
+        logo: 'GraphQL',
+        label: 'GraphQL',
         color: 'f8f5f5',
         labelColor: 'f8f5f5',
         logoColor: '666666',
