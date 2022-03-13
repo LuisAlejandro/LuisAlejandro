@@ -1,8 +1,6 @@
 
 ![About Me](https://github.com/LuisAlejandro/LuisAlejandro/blob/master/banner.svg)
 
-I'm a Telecom Engineer, founder of [@CollageLabs](https://github.com/CollageLabs): a tech startup on early stage.
-
 I'm passionate 💖 about finding out end user needs and creating beautiful interfaces with sustainable architecture. I've been on the field for more than 13 years but I'm always fascinated by new technology, which I try to integrate into new projects as soon as possible.
 
 I'm also a huge advocate of mental health 🧠 in our field: products for humans should be made by humans behaving as if they were human (or at least pretending to act like one).
