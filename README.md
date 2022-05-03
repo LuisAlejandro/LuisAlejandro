@@ -1,5 +1,5 @@
 
-![About Me](https://github.com/LuisAlejandro/LuisAlejandro/blob/master/banner.svg)
+![About Me](https://github.com/LuisAlejandro/LuisAlejandro/blob/master/images/banner.svg)
 
 I'm passionate 💖 about finding out end user needs and creating beautiful interfaces with sustainable architecture. I've been on the field for more than 13 years but I'm always fascinated by new technology, which I try to integrate into new projects as soon as possible.
 
