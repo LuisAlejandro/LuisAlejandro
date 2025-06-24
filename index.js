@@ -14,13 +14,13 @@ I'm also a huge advocate of mental health 🧠 in our field: products for humans
 ### 🛠 &nbsp; On my toolbox
 
 ${config.SKILLS.map(({ logo, label, color, labelColor, logoColor }) => {
-  return `<img src="https://img.shields.io/static/v1?message=${label}&label=&style=flat&logo=${logo}&color=${color}&labelColor=${labelColor}&logoColor=${logoColor}"/>&nbsp;`;
+  return `<img src="https://img.shields.io/static/v1?message=${encodeURIComponent(label)}&label=&style=flat&logo=${encodeURIComponent(logo)}&color=${encodeURIComponent(color)}&labelColor=${encodeURIComponent(labelColor)}&logoColor=${encodeURIComponent(logoColor)}"/>&nbsp;`;
 }).join("")}
 
 ### 🤝🏻 &nbsp; Get in touch
 
 ${config.SOCIAL.map(({ link, logo, label, color, labelColor, logoColor }) => {
-  return `<a href="${link}"><img src="https://img.shields.io/static/v1?message=${label}&label=&style=flat&logo=${logo}&color=${color}&labelColor=${labelColor}&logoColor=${logoColor}"/></a>&nbsp;`;
+  return `<a href="${link}"><img src="https://img.shields.io/static/v1?message=${encodeURIComponent(label)}&label=&style=flat&logo=${encodeURIComponent(logo)}&color=${encodeURIComponent(color)}&labelColor=${encodeURIComponent(labelColor)}&logoColor=${encodeURIComponent(logoColor)}"/></a>&nbsp;`;
 }).join("")}
 `
 );

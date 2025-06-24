@@ -1,4 +1,3 @@
-version: "3"
 services:
   luisalejandro:
     image: luisalejandro/readme:latest
