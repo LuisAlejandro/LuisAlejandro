@@ -17,6 +17,12 @@ ${config.SKILLS.map(({ logo, label, color, labelColor, logoColor }) => {
   return `<img src="https://img.shields.io/static/v1?message=${encodeURIComponent(label)}&label=&style=flat&logo=${encodeURIComponent(logo)}&color=${encodeURIComponent(color)}&labelColor=${encodeURIComponent(labelColor)}&logoColor=${encodeURIComponent(logoColor)}"/>&nbsp;`;
 }).join("")}
 
+### ✨ &nbsp; Building with AI
+
+${config.AI_TOOLS.map(({ logo, label, color, labelColor, logoColor }) => {
+  return `<img src="https://img.shields.io/static/v1?message=${encodeURIComponent(label)}&label=&style=flat&logo=${encodeURIComponent(logo)}&color=${encodeURIComponent(color)}&labelColor=${encodeURIComponent(labelColor)}&logoColor=${encodeURIComponent(logoColor)}"/>&nbsp;`;
+}).join("")}
+
 ### 🤝🏻 &nbsp; Get in touch
 
 ${config.SOCIAL.map(({ link, logo, label, color, labelColor, logoColor }) => {
