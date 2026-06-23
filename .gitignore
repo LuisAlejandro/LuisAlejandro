@@ -1,4 +1,5 @@
 node_modules
+preview.html
 images/*.png
 !images/twitch-bg-start.png
 images/*.jpg
